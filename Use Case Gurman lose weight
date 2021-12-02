@@ -1,0 +1,20 @@
+Use Case Title: Lose Weight 
+Primary Actor: User
+Level: Black
+Stakeholders: Customer,
+Precondition: Customer uses Fitness Inc. application
+Minimal Guarantee: 8lbs lost in one month 
+Success Guarantees: Provide a user friendly interface
+Trigger: The customer BMI is above 25 
+Main Success Scenario: 1.Customer downloads the application 
+                                       2.Customer makes an account 
+                                       3.Customer answer the selected questions
+                                       4.Customer starts following the given plan constantly
+                                      5. Customer loses weight 
+Extensions: 1a.   User finds it hard to keep up with the diet plan 
+                    1a1. User uninstall the application
+                    2a.   User did not see results 
+                    2a1. User searches for a different application 
+                    3a.   User is unable to purchase the recommend diet plan
+                    3a1. User transition to a different alternative 
+

@@ -1,0 +1,23 @@
+Use Case Title: Distance Calculator 
+Primary Actor: User
+Level: Kite
+Stakeholders: Customer
+Precondition: Customer has access to a smartphone or smartwatch 
+Minimal Guarantee: Display the steps taken throughout the day (24 hours / day)
+Success Guarantees: Shows the summary of steps taken, heart rate and time 
+Trigger: The Customer wants to check the total distance walk at a specific time
+Main Success Scenario: 1.Customer has a smartphone or a smartwatch 
+                                       2.Customer is satisfy with the information given
+                                       3. Customer is  highly active individual 
+                                       4. Customer shares the total distance walked with peers                                                                                                           
+                                       5. Customer allows access to the accelerometer
+Extensions: 1a.   User does not have the minimum requirements to run the application
+                    2a..  The user does not find the distance calculator accurate 
+                    2a1. Application crashes in between tasks
+                    2a2. Data cannot be saved within the local storage 
+                    3a.   User can not afford a wearable device
+                    3a1. There is not cloud saving option 
+                    4.     Customer does not trust the encryption 
+
+
+

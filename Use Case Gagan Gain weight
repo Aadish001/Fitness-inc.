@@ -1,0 +1,20 @@
+Use Case Title: Gain Weight 
+Primary Actor: User
+Level: Fish
+Stakeholders: Customer
+Precondition: Customer is underweight
+Minimal Guarantee: 7lbs gain per month 
+Success Guarantees: Budget friendly meals 
+Trigger: The customer BMI is less than 18.5 
+Main Success Scenario: 1.Customer views the fitness inc. advertisements 
+                                       2.Customer downloads the application 
+                                       3.Customer starts following the given plan constantly
+                                       4.Customer seeing gradual results 
+                                       5. Customer refers application to friends and family 
+Extensions: 1a.   User finds the calorie intake too high
+                    1a1. User quits the program 
+                    2a.   User is not motivated 
+                    2a1. User loses more weight than intended 
+                    3a.   User faces medical issues 
+                    3a1. User give bad word of mouth 
+
